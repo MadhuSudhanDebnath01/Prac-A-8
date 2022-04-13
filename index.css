@@ -1,0 +1,44 @@
+
+.box-1{
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    border: 2px solid red;
+   background-image: linear-gradient(to left ,red ,yellow,green);
+}
+.box-2{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 2px solid red;
+    background-image: radial-gradient(red,yellow,green,blue);
+}
+.box-3{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    border: 2px solid red;
+    background-color: aqua;
+ float: right;
+ clear: left;
+
+  }
+
+.box-5{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    border: 2px solid red;
+    background-color: purple;
+    float: right;
+  }
+.jio{
+    height: 100px;
+    width: 100px;
+    padding: 40px;
+    border: 2px solid red;
+    background-color: brown;
+    box-sizing: border-box;
+  }
+ 
+
